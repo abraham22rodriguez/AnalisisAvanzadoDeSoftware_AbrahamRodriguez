@@ -6,7 +6,7 @@
 
 ## Contenido
 ### AnalisisAvzdo
-1. :books:   [C0.1](AnalisisAvzdo/C0.1AbrahamRodrigez_Init.md)
+1. :books:   [C0.1](AnalisisAvzdo/C0.1_AbrahamRodriguez_Init.md)
 
                                                
                                                
