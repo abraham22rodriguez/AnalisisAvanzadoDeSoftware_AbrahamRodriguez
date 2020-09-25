@@ -6,7 +6,7 @@
 
 ## Contenido
 ### AnalisisAvzdo
-1. :books:   [Modelado de requisitos](docs/C0.1AbrahamRodrigez_init.md)
+1. :books:   [C0.1](doc/C0.1AbrahamRodrigez_init.md)
 
                                                
                                                
