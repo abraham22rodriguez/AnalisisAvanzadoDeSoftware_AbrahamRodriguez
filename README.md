@@ -11,6 +11,8 @@
 3. :books:   [C0.3](AnalisisAvzdo/C0.3_AbrahamRodriguez_Zepelin.md)
 4. :books:   [C0.4](AnalisisAvzdo/C0.4_RodriguezMenaAbraham_Zepelin.md)
 5. :books:   [C1.1](AnalisisAvzdo/C1.1_AbrahamRodriguezMena_Zepelin.md)
+6. :books:   [C1.2](AnalisisAvzdo/C1.2_AbrahamRodriguezMena_Zepelin.md)
+7. :books:   [C1.3](AnalisisAvzdo/C1.3_AbrahamRodriguezMena_Zepelin.pdf)
 
 ### images
 1. null
